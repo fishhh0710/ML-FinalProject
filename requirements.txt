@@ -1,0 +1,5 @@
+# Windows x64 environment verified on Python 3.14.5
+mediapipe==1.2.3
+opencv-contrib-python==5.1.0.95
+numpy==2.4.6
+pillow==12.2.0
